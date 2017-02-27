@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483476147 source:f:\c\arbori binari\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1483476528 source:l:\teme asd\arbori binari\main.c
+	<stdio.h>
+	<stdlib.h>
+
